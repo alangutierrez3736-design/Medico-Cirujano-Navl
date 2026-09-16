@@ -1,0 +1,11 @@
+.font-serif-brand {
+  font-family: "Lora", Georgia, serif;
+}
+
+.font-ui {
+  font-family: "IBM Plex Sans", system-ui, sans-serif;
+}
+
+body {
+  margin: 0;
+}
